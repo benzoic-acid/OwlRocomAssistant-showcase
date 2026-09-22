@@ -15,7 +15,9 @@ OwlRocomAssistant（ORA）是面向《洛克王国：世界》的本地数据助
 
 ### 精灵
 
-<img src="screenshots/pet-warehouse.png" alt="ORA 精灵筛选与盒位" width="49%"> <img src="screenshots/pet-details.png" alt="ORA 精灵资料与分组" width="49%">
+![ORA 精灵筛选与盒位](screenshots/pet-warehouse.png)
+
+![ORA 精灵资料与分组](screenshots/pet-details.png)
 
 ### 地图
 
