@@ -83,9 +83,9 @@ OwlRocomAssistant（ORA）是面向《洛克王国：世界》的本地数据助
 ### 花种
 
 <details>
-<summary>花种与炫彩探查（S3 界面）</summary>
+<summary>花种与炫彩探查</summary>
 
-花种页汇总精灵与炫彩外观信息。自 S4 起，游戏内也提供了同类查看功能，ORA 的花种页可作为补充。下图为 S3 期间的界面。
+S4 起游戏内也提供了同类查看功能，暂时弃置。
 
 ![ORA 花种收藏](screenshots/flower-seeds.png)
 
