@@ -40,9 +40,9 @@ OwlRocomAssistant（ORA）是面向《洛克王国：世界》的本地数据助
 
 批量捕捉后，快速筛选声音达到极限值的精灵，以及性格、资质较优的个体。
 
-[![精灵家族、极限声音奖牌与个体资质筛选演示](screenshots/pet-filter-demo.png)](videos/pet-filter-demo.mp4)
+[![精灵家族、极限声音奖牌与个体资质筛选演示](screenshots/pet-filter-demo.png)](https://benzoic-acid.github.io/OwlRocomAssistant-showcase/)
 
-[观看操作演示（MP4，约 28 秒）](videos/pet-filter-demo.mp4)
+[观看操作演示（支持全屏，约 28 秒）](https://benzoic-acid.github.io/OwlRocomAssistant-showcase/) · [下载 MP4](videos/pet-filter-demo.mp4)
 
 ### 地图
 
